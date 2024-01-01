@@ -296,9 +296,9 @@ EOM
 cat <<\EOM >/etc/openvpn/script/config.sh
 #!/bin/bash
 HOST='185.61.137.174'
-USER=''firenetv_mtknew'
+USER='firenetv_mtknew'
 PASS='mtknew00'
-DB=''firenetv_mtknew'
+DB='firenetv_mtknew'
 EOM
 
 cat <<\EOM >/etc/openvpn/script/connect.sh
